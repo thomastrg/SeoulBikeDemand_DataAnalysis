@@ -1,5 +1,7 @@
 # Data Analysis of Seoul Bike Demand
 
+***
+
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort.    
 <br>   
 
@@ -13,18 +15,22 @@ Indeed, the main **problematic** faced is that bikes stations are not always wel
 <br>  
 You can find the dataset necessary for the analysis on following link : [https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand#](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand#)
 <br>
-This project is implemented in Python on a Jupyter notebook which gathers tasks of :  
+
+
+## This project is implemented in Python on a Jupyter notebook which gathers tasks of :  
 * Data visualisation : show correlations between the data and the target  
 * Machine learning algorithm modelisation
 * Transformation of the modele into an API Django 
   
  
- You will find in this repositery :   
+## You will find in this repositery :   
 * A powerpoint presenting all the researches and conclusions  
 * The Jupyter Notebook
 * The API Django 
 <br> 
-Conclusion : 
+
+## Conclusion : 
+This study shows that
 
 
 
