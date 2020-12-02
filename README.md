@@ -12,9 +12,12 @@ the number of bikes rented per hour and date information.
 Indeed, the main **problematic** faced is that bikes stations are not always well supplied.
 <br>  
 You can find the dataset necessary for the analysis on following link : [https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand#](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand#)
-
-Technical parts and technologies used:   
+<br>
+This project is implemented in Python on a Jupyter notebook which gathers :  
+*Data visualisation : show correlations between the data and the target
 *
+
+
 
 
 
