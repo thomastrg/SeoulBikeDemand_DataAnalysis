@@ -17,13 +17,12 @@ This project is implemented in Python on a Jupyter notebook which gathers tasks 
 * Data visualisation : show correlations between the data and the target  
 * Machine learning algorithm modelisation
 * Transformation of the modele into an API Django 
-
-<br> 
-You will find in this repositery :
-* A powerpoint presenting all the researches and conclusions
+  
+ 
+ You will find in this repositery :   
+* A powerpoint presenting all the researches and conclusions  
 * The Jupyter Notebook
 * The API Django 
-
 <br> 
 Conclusion : 
 
