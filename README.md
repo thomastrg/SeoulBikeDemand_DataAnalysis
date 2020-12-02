@@ -20,7 +20,7 @@ You can find the dataset necessary for the analysis on following link : [https:/
 ## This project is implemented in Python on a Jupyter notebook which gathers tasks of :  
 * Data visualisation : show correlations between the data and the target  
 * Machine learning algorithm modelisation
-* Transformation of the modele into an API Django 
+* Transformation of the model into an API Django 
   
  
 ## You will find in this repositery :   
