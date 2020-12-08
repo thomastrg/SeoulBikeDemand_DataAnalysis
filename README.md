@@ -24,9 +24,9 @@ You can find the dataset necessary for the analysis on following link : [https:/
   
  
 ## You will find in this repositery :   
-* A powerpoint presenting all the researches and conclusions  
+* A LaTeX report of the study   
 * The Jupyter Notebook
-* The API Django 
+* The transformation of the model into an API 
 <br> 
 
 ## Conclusion : 
