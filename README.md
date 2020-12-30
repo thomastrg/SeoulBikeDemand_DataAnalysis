@@ -34,4 +34,6 @@ You can find the dataset necessary for the analysis on following link : [https:/
 <br> 
 
 ## Conclusion : 
-This study shows that the rents of bikes are influenced by a lot of features. In this study, we understood that many koreans usually and mainly rent bikes during the week days, so we supposed that the main use is to go to school or work. There are also many conditions which contribute to the variation of number of rents like the the day of the week, the moment of the day and weather conditions. Weather conditions are also very important because there are more rents during spring and summer. And as we expected more people are set to rent bikes when the weather is favorable. 
+This study shows that the rents of bikes are influenced by a lot of features. In this study, we understood that many koreans usually and mainly rent bikes during the week days, so we supposed that the main use is to go to school or work. There are also many conditions which contribute to the variation of number of rents like the the day of the week, the moment of the day and weather conditions. Weather conditions are also very important because there are more rents during spring and summer. And as we expected more people are set to rent bikes when the weather is favorable.   
+You can check below the result of the deployment of our Machine Learning model : the extras trees regressor which had the best score among the models.
+![logo](https://github.com/thomastrg/SeoulBikeDemand_DataAnalysis/blob/main/images/final.PNG)
