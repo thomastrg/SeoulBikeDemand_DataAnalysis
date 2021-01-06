@@ -1,0 +1,3 @@
+Flask
+WTForms
+itsdangerous
