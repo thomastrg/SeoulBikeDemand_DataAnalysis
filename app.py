@@ -8,10 +8,7 @@ import numpy as np
 import pickle
 import sklearn
 from flask import Flask,render_template,request,jsonify
-from flask_bootstrap import Bootstrap
-from flask_wtf import FlaskForm
-from wtforms import StringField,FloatField,IntegerField,SelectField,SubmitField
-from wtforms.validators import DataRequired,InputRequired,NumberRange
+
 
 
 
@@ -40,6 +37,7 @@ def predict():
 
 
 
+ 
 
 
 if __name__ == "__main__":
