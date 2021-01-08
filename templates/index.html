@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Predict Bike demand API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel = "icon" href =  "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" type = "image/x-icon">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+      <style>
+      #d1{
+          overflow :scroll;
+      }</style>
+</head>
+
+<body>
+ <div class="login">
+	<h1>Predict Rented bikes in Seoul</h1>
+    <form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="Hour (0 to 24)" placeholder="Hour (0 to 24)" required="required" />
+        <input type="text" name="Temperature (°C)" placeholder="Temperature (°C)" required="required" />
+		<input type="text" name="Humidity(%)" placeholder="Humidity(%)" required="required" />
+		<input type="text" name="Wind speed (m/s)" placeholder="Wind speed (m/s)" required="required" />
+		<input type="text" name="Visibility(m)" placeholder="Visibility(m)" required="required" />
+		<input type="text" name="Solar radiation (MJ/m2)" placeholder="Solar radiation (MJ/m2)" required="required" />
+		<input type="text" name="Rainfall(mm)" placeholder="Rainfall(mm)" required="required" />
+		<input type="text" name="Snowfall(cm)" placeholder="Snowfall(cm)" required="required" />
+		<input type="text" name="month(1 to 12)" placeholder="month(1 to 12)" required="required" />
+		<input type="text" name=" WeekDay(1 to 7 : monday to Sunday)" placeholder=" WeekDay(1 to 7 : monday to Sunday)" required="required" />
+		
+        <button type="submit" class="btn btn-primary btn-block btn-large">Launch the prediction</button>
+    </form>
+
+   <br>
+
+   {{ prediction_text }}
+
+
+
+ </div>
+
+
+</body>
+</html>

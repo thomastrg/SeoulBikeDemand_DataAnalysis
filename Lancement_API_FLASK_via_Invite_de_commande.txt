@@ -1,4 +1,0 @@
->cd flask_projects
->cd nomFile\Scripts\activate
->set FLASK_APP=nomFichier.py
->flask run

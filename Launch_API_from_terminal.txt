@@ -1,0 +1,17 @@
+# From the root
+
+>cd venv
+
+>cd Scripts
+
+>activate
+
+#Back to the root
+
+>cd ..
+
+>cd ..
+
+>set FLASK_APP=app.py
+
+>flask run
