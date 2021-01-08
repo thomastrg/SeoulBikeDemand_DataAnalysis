@@ -1,0 +1,6 @@
+!*.log
+*/data/.ipynb_checkpoints/*
+*/script/.ipynb_checkpoints/*
+*/script/analyse/.ipynb_checkpoints/*
+*/script/scrapping/.ipynb_checkpoints/*
+.ipynb_checkpoints/
