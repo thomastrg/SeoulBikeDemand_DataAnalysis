@@ -1,5 +1,5 @@
->cd flask_projects
->py -3 -m venv nomFile
->nomFile\Scripts\activate
+>cd nomfile
+>cd Scripts
+>activate
 >set FLASK_APP=nomFichier.py
 >flask run
