@@ -28,8 +28,8 @@ You can find the dataset necessary for the analysis on following link : [https:/
   
  
 ## You will find in this repositery :   
-* A LaTeX report of the study   
-* The Jupyter Notebook
+* A [LaTeX report of the study](https://github.com/thomastrg/SeoulBikeDemand_DataAnalysis/raw/main/Report.pdf)
+* The [Jupyter Notebook](https://github.com/thomastrg/SeoulBikeDemand_DataAnalysis/blob/main/final_project.ipynb)
 * The transformation of the model into an API 
 <br> 
 
