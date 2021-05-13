@@ -24,7 +24,7 @@ You can find the dataset necessary for the analysis on following link : [https:/
 ## This project is implemented in Python and gathers tasks of :  
 * Data visualisation : show correlations between the data and the target on the Jupyter Notebook
 * Machine learning algorithm modelisation on the Jupyter Notebook
-* Transformation of the model into an API Django
+* Transformation of the model into an API Flask
   
  
 ## You will find in this repositery :   
